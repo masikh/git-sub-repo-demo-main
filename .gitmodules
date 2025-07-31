@@ -1,0 +1,3 @@
+[submodule "alembic"]
+	path = alembic
+	url = git@github.com-masikh:masikh/git-sub-repo-demo-sub.git
